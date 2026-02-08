@@ -19,17 +19,17 @@ This project demonstrates full-stack engineering, scalable architecture, real-wo
 
 > These visuals prove the real working product.
 
-| Dashboard                      | Course List                  | Course Details                      |
+| Implementation screenshot                      | Implementation screenshot                 | Implementation screenshot                    |
 | ------------------------------ | ---------------------------- | ----------------------------------- |
-| ![](screenshots/Screenshot2026-02-01160249.png) | ![](screenshots/courses.png) | ![](screenshots/course-details.png) |
+| ![](screenshots/13.png) | ![](screenshots/8.png) | ![](screenshots/6.png) |
 
-| Create Course                      | Upload Video                      | Payment Checkout             |
+| Implementation screenshot                   | Implementation screenshot                       | Implementation screenshot              |
 | ---------------------------------- | --------------------------------- | ---------------------------- |
-| ![](screenshots/create-course.png) | ![](screenshots/upload-video.png) | ![](screenshots/payment.png) |
+| ![](screenshots/5.png) | ![](screenshots/10.png) | ![](screenshots/15.png) |
 
-| Student View                      | My Courses                      | Profile                      |
+|Implementation screenshot                   | Implementation screenshot                  |Implementation screenshot                   |
 | --------------------------------- | ------------------------------- | ---------------------------- |
-| ![](screenshots/student-view.png) | ![](screenshots/my-courses.png) | ![](screenshots/profile.png) |
+| ![](screenshots/16.png) | ![](screenshots/17.png) | ![](screenshots/18.png) |
 
 ---
 
