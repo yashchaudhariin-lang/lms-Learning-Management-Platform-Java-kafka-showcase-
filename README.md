@@ -21,7 +21,7 @@ This project demonstrates full-stack engineering, scalable architecture, real-wo
 
 | Dashboard                      | Course List                  | Course Details                      |
 | ------------------------------ | ---------------------------- | ----------------------------------- |
-| ![](screenshots/dashboard.png) | ![](screenshots/courses.png) | ![](screenshots/course-details.png) |
+| ![](screenshots/Screenshot 2026-02-09 022604.png) | ![](screenshots/courses.png) | ![](screenshots/course-details.png) |
 
 | Create Course                      | Upload Video                      | Payment Checkout             |
 | ---------------------------------- | --------------------------------- | ---------------------------- |
